@@ -4,7 +4,7 @@ I am currently learning Cloud and DevOps fundamentals and building my skills ste
 
 ## What I am focusing on
 
-* AWS (EC2, S3, IAM)
+* AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)
 * Linux basics and commands
 * Networking fundamentals
 
